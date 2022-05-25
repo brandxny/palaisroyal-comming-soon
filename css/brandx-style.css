@@ -76,6 +76,7 @@ h1 {
   }
   
   header {
+    background: black;
     position: relative;
     top: 0;
     left: 0;
@@ -90,7 +91,7 @@ h1 {
   }
   .header .bx-logo {
     width: 232px;
-    height: 33px;
+    height: 95px;
     display: block;
     background-image: url("../images/palaisroyal-logo.png");
     background-size: 100% auto;
